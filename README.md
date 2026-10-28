@@ -1,3 +1,4 @@
+# Love Calculator (Situationship Check)💗🧮
 # 💖 SITUATIONSHIP CHECK: Love Compatibility & Vibe Check Meter
 
 > **"Kalkulator Kecocokan Cinta & Vibe Check Retro Y2K dengan Algoritma Deterministik dan Sound Effects Synthesizer!"**
